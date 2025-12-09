@@ -51,7 +51,7 @@ This project focuses on building a cloud-native data platform to analyze histori
 
 ## 🧱 Architecture & Approach
 
-<img width="1367" height="550" alt="image" src="https://github.com/user-attachments/assets/763b57f7-3982-4074-bae8-57f4e4ec1447" />
+![WhatsApp Image 2025-12-09 at 12 56 43_d7183b04](https://github.com/user-attachments/assets/f7a4addb-7e85-4612-99a1-92056c32bbac)
 
 
 ### 🥉 Bronze / Raw Layer
