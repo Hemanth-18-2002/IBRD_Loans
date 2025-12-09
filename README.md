@@ -114,7 +114,7 @@ This project focuses on building a cloud-native data platform to analyze histori
 ---
 
 ## 📐 Data Model (Star Schema)
- <img width="200" height="282" alt="image" src="https://github.com/user-attachments/assets/69e034e0-f4e3-459c-8014-82888fef0325" />
+ <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/69e034e0-f4e3-459c-8014-82888fef0325" />
 
 
 ## 🚀 How to Get Started
