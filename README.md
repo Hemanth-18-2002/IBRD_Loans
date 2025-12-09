@@ -1,4 +1,4 @@
-# IBRD-Loan-Management-Efficiency
+<img width="1613" height="447" alt="image" src="https://github.com/user-attachments/assets/80903d0d-e935-4b97-a113-cb15140a1ff2" /># IBRD-Loan-Management-Efficiency
 
 # 💸 Enhancing Loan Management Efficiency for IBRD  
 ### A Modern Data Engineering Case Study with Snowflake, DBT & AWS
@@ -135,3 +135,7 @@ This project focuses on building a cloud-native data platform to analyze histori
 - 🧮 Average processing time and repayment period per country.  
 - 🧱 Drill-down by loan type, **status, and **project.  
 - 🚨 Real-time view of new loans and potential cancellation risk signals.
+  <img width="1591" height="421" alt="image" src="https://github.com/user-attachments/assets/6d09b4e4-0343-4e3e-98b2-8eba0cf58442" />
+  <img width="1610" height="435" alt="image" src="https://github.com/user-attachments/assets/d10c9c5d-7c0e-427e-b262-521351717b12" />
+  <img width="1613" height="447" alt="image" src="https://github.com/user-attachments/assets/b4413880-5341-40e5-a357-cf8df07670ca" />
+  <img width="1591" height="649" alt="image" src="https://github.com/user-attachments/assets/67302caa-6449-4125-b921-d84427236c4a" />
