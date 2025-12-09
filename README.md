@@ -112,7 +112,7 @@ This project focuses on building a cloud-native data platform to analyze histori
 ---
 
 ## 📐 Data Model (Star Schema)
- <img width="2000" height="2828" alt="image" src="https://github.com/user-attachments/assets/69e034e0-f4e3-459c-8014-82888fef0325" />
+ <img width="200" height="282" alt="image" src="https://github.com/user-attachments/assets/69e034e0-f4e3-459c-8014-82888fef0325" />
 
 ### 1️⃣ fact_loan – Central Fact Table
 
