@@ -128,7 +128,7 @@ This project focuses on building a cloud-native data platform to analyze histori
 
 ---
 
-## 📊 Optional: Streamlit / Dashboard Ideas
+## 📊 Streamlit / Dashboard Ideas
 
 - 📈 Loan cancellation trends by country / region / year.  
 - 🧮 Average processing time and repayment period per country.  
