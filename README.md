@@ -24,7 +24,8 @@ This project focuses on building a cloud-native data platform to analyze histori
 ## 🛠 Tech Stack
 
 - ❄ Snowflake (Snowpark, Snowpipe, Streams & Tasks)  
-- 🧱 dbt Cloud/Core  
+- 🧱 dbt Cloud/Core
+- 🌟 AWS GLUE with Pyspark
 - ☁ AWS S3 (external stages & storage options)  
 - ⚡ Streaming / Real-time ingestion (Snowflake Streaming, optionally Spark Streaming)  
 - 📊 BI / Dashboards (any tool – e.g., Power BI, Tableau, Streamlit, etc.)
@@ -36,9 +37,6 @@ This project focuses on building a cloud-native data platform to analyze histori
 - Batch / Historical Data  
   - IBRD Statement Of Loans – Historical Data  
   - https://finances.worldbank.org/Loans-and-Credits/IBRD-Statement-Of-Loans-Historical-Data/zucq-nrc3  
-
-- Streaming / Latest Data  
-  - GitHub: https://github.com/akgeoinsys/finance-ibrd  
 
 ---
 
@@ -52,6 +50,9 @@ This project focuses on building a cloud-native data platform to analyze histori
 ---
 
 ## 🧱 Architecture & Approach
+
+<img width="1367" height="550" alt="image" src="https://github.com/user-attachments/assets/763b57f7-3982-4074-bae8-57f4e4ec1447" />
+
 
 ### 🥉 Bronze / Raw Layer
 
