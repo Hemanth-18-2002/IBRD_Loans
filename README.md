@@ -86,7 +86,7 @@ This project focuses on building a cloud-native data platform to analyze histori
 ---
 
 ## 🔄 Orchestration & Streaming
-<img width="102" height="153" alt="image" src="https://github.com/user-attachments/assets/8805c1c9-2d58-4a55-84cf-602094cd14e9" />
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/8805c1c9-2d58-4a55-84cf-602094cd14e9" />
 
 - Snowpipe  
   - Auto-ingestion when new files land in S3.  
