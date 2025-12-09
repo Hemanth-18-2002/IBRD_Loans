@@ -49,7 +49,7 @@ This project focuses on building a cloud-native data platform to analyze histori
 
 ---
 
-## 🧱 Architecture & Approach
+## 🧱 Medallion Architecture & Approach
 
 ![WhatsApp Image 2025-12-09 at 12 56 43_d7183b04](https://github.com/user-attachments/assets/f7a4addb-7e85-4612-99a1-92056c32bbac)
 
