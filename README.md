@@ -1,4 +1,4 @@
-<img width="1613" height="447" alt="image" src="https://github.com/user-attachments/assets/80903d0d-e935-4b97-a113-cb15140a1ff2" /># IBRD-Loan-Management-Efficiency
+# IBRD-Loan-Management-Efficiency
 
 # 💸 Enhancing Loan Management Efficiency for IBRD  
 ### A Modern Data Engineering Case Study with Snowflake, DBT & AWS
