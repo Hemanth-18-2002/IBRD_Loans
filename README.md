@@ -1,4 +1,4 @@
-# ibrd-loan-management-efficiency
+# IBRD-Loan-Management-Efficiency
 
 # 💸 Enhancing Loan Management Efficiency for IBRD  
 ### A Modern Data Engineering Case Study with Snowflake, dbt & AWS
